@@ -1,6 +1,6 @@
 # React TypeScript Snowpack
 
-An experiment in the use of React and TypeScript with Snowpack
+An experiment in the use of React and TypeScript with Snowpack, using older code from an earlier experimental [repo](https://github.com/sleeplesseditor/D3ReactTypeScriptPrototype) in the use of React, D3 and TypeScript
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
