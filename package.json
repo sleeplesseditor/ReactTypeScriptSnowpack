@@ -1,4 +1,5 @@
 {
+  "author": "Josh Bryson",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

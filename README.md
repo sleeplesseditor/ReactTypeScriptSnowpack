@@ -1,4 +1,6 @@
-# New Project
+# React TypeScript Snowpack
+
+An experiment in the use of React and TypeScript with Snowpack
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
